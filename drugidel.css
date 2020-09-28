@@ -1,0 +1,41 @@
+@media screen and (max-width: 960px) {
+.telo1{
+width: 100%;
+}
+#imag1{
+width:100%;
+}
+#gl{
+margin-top: 10px;
+display: flex;
+justify-content: center;
+text-align: center;	
+flex-direction: column;
+}
+#gl2{
+width: 100%;
+min-height: 0;
+margin: 15px 0;
+text-align: center;
+}
+.sliki1{
+margin: 0 auto 10px; 
+width: 40%; 
+border-bottom: 10px solid rgb(51, 51, 51);
+}
+.sliki1 img{
+width:100%;
+}}
+@media screen and (max-width: 600px) {
+.telo1{
+width: 100%;
+}	
+#telo2{
+flex-direction: column;
+margin-top: 5px;
+height: auto;
+text-align: center;
+}
+#hitro{
+flex-direction: column;
+}}

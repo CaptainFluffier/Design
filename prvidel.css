@@ -1,0 +1,216 @@
+.Glava{
+background-color: rgb(26, 27, 29);
+margin:0px;
+display: block;
+height: 50px;
+max-height: 50px;
+padding-left: 16px;
+padding-right: 16px;
+border-bottom: solid rgb(255,70,83)  5px;
+}
+body{
+padding:0px;
+margin: 0px;
+}
+.podglava{
+margin: 0px;
+display: inline-block;
+padding-bottom:16px;
+color: rgb(196, 196, 196);
+padding-top:16px;
+font-size:12px;
+}
+.podglava:hover{
+color: rgb(255,70,83);
+}
+a{
+text-decoration: none;
+}
+.tabela{   
+margin-top: 16px;
+margin-bottom: 16px;
+float: right;
+border-radius: 25px;
+padding: 2px;
+}
+.telo1{
+width: 960px;
+margin: 0 auto;    
+}
+#telo2{
+border: none;
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+margin: 0px;
+margin-top:20px;
+}
+footer{
+height: 320px;
+padding-top: 0px;
+padding-left:16px;
+padding-right: 16px;
+background-color: rgb(26, 27, 29);
+margin:0px;
+border-top: solid rgb(255,70,83)  5px;
+margin-top:46px;
+}
+#resp{
+font-size: 12px;
+font-family: Georgia;
+color: rgb(153, 153, 153);    
+}
+.noga{
+margin-top: 50px;
+font-size:12px;
+color: rgb(153,153,153);    
+}
+.noga2{
+margin-top: 50px;
+margin-bottom:58px;
+font-size:12px;
+color: rgb(153,153,153);
+
+}
+.style1{
+color:white;
+font-size: 13px;
+}
+.style11{
+color: rgb(153,153,153);
+font-size: 13px;
+     text-align: right;
+}
+.style11:hover{
+color: rgb(255,70,83);
+font-size: 13px;
+}
+#tvoj{
+font-size: 16px;
+line-height: 28.8px;
+}
+.sliki{
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+}
+.gal{
+color: rgb(255, 70, 83);
+float: right;
+margin-top: 25px;
+margin-bottom: 25px;
+}
+.sliki1{
+width: 225px;
+border-bottom: 10px solid rgb(51, 51, 51);
+margin: 5px;
+}
+.sliki1:hover{
+width: 225px;
+border-bottom: 10px solid rgb(255, 70, 83);
+margin: 5px;
+}
+li{
+display: block;
+width: 200px;
+border-bottom: solid rgb(153,153,153) 1px;
+padding: 2px;
+}
+.noga3{
+font-size:12px;
+color: rgb(153,153,153);
+}
+hr{ width:100%; 
+height:1px; 
+background: rgb(153,153,153);
+margin-top: 55px;
+border-color: rgb(153,153,153);
+}
+#hitro{
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+margin: 0px;
+width: 100%;    
+}
+#slika1{
+height: 60px; padding-top: 25px;
+padding-bottom: 25px;
+}
+h1{
+font-size: 46px;
+font-family: Georgia;
+color: rgb(82, 95, 107);
+line-height: 24px;
+}
+#Gumb1{
+border: 1px #dbdbdb solid;
+background-color: rgb(241, 241, 241);
+}
+#resp{
+font-size: 12px;
+font-family: Georgia;
+color: rgb(153, 153, 153);    
+}
+#nasliki
+{
+position: absolute;
+background: rgb(0,0,0);
+padding:20px;
+margin-top: 0;
+margin-bottom: 0;
+bottom: 0;
+}
+#nasliki1
+{
+font-size: 20px;
+color: rgb(194, 194, 194);
+}
+#nasliki2
+{
+font-size: 13px;
+color: rgb(194, 194, 194);
+}
+nav{
+width: 100%;
+}
+.Gumb{
+padding: 15px;
+margin: 0px;
+display:inline-block;
+color:#535f6b;
+font-size:12px;
+font-family: Georgia;    
+}
+.Gumb:hover{
+padding: 15px;
+margin: 0px;
+background-color: rgb(255,70,83);
+color:white;
+}
+#ss{
+width: :100%;
+margin-top: 50px;
+height: 465px;
+position: relative;
+}
+#gl{
+margin-top: 60px;
+display: flex;	
+flex-direction: row;
+justify-content: space-between;
+}
+#gl2{
+width: 460px;
+min-height: 315px;
+}
+#spodaj{
+font-size: 46px;
+font-weight: normal;
+line-height: 55.2px;
+}
+
+
+
+
+
